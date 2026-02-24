@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
