@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/3847-find-the-score-difference-in-a-game) |
 <!---LeetCode Topics End-->
