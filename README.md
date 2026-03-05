@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/3847-find-the-score-difference-in-a-game) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
