@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0876-middle-of-the-linked-list](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
