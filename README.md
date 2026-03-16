@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
+| [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Prefix Sum
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0876-middle-of-the-linked-list](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
 <!---LeetCode Topics End-->
