@@ -103,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
