@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
