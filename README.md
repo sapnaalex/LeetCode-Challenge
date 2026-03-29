@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
