@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
