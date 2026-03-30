@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
