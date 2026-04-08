@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
