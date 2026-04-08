@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
@@ -109,21 +111,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/2592-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -180,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
