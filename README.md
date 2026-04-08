@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
 ## Queue
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
