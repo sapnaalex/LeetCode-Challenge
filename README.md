@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
