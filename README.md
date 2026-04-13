@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -222,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
