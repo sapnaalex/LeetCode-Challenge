@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
