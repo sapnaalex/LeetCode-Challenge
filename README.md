@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
