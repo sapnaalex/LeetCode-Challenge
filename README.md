@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Tree
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bucket Sort
@@ -234,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
