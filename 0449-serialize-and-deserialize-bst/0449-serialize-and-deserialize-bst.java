@@ -9,7 +9,6 @@
  */
 public class Codec {
 
-    // Serialize (Preorder)
     public String serialize(TreeNode root) {
         StringBuilder sb = new StringBuilder();
         preorder(root, sb);
@@ -23,23 +22,28 @@ public class Codec {
         preorder(root.right, sb);
     }
 
-    // Deserialize
-    int i = 0;
-
     public TreeNode deserialize(String data) {
         if (data.isEmpty()) return null;
-        int[] arr = Arrays.stream(data.split(" "))
-                          .mapToInt(Integer::parseInt)
-                          .toArray();
-        return build(arr, Integer.MIN_VALUE, Integer.MAX_VALUE);
+
+        Queue<Integer> q = new LinkedList<>();
+        for (String s : data.split(" "))
+            q.offer(Integer.parseInt(s));
+
+        return build(q, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }
 
-    TreeNode build(int[] arr, int min, int max) {
-        if (i == arr.length || arr[i] < min || arr[i] > max) return null;
+    TreeNode build(Queue<Integer> q, int min, int max) {
+        if (q.isEmpty()) return null;
 
-        TreeNode root = new TreeNode(arr[i++]);
-        root.left = build(arr, min, root.val);
-        root.right = build(arr, root.val, max);
+        int val = q.peek();
+        if (val < min || val > max) return null;
+
+        q.poll();
+        TreeNode root = new TreeNode(val);
+
+        root.left = build(q, min, val);
+        root.right = build(q, val, max);
+
         return root;
     }
 }
