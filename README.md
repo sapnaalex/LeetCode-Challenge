@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
