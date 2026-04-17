@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -242,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
