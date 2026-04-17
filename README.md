@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -282,10 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
