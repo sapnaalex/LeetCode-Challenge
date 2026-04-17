@@ -1,34 +1,24 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] g) {
         int n = g.length;
-        List<List<Integer>> rev = new ArrayList<>();
-        for (int i = 0; i < n; i++) rev.add(new ArrayList<>());
-
-        int[] out = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            out[i] = g[i].length;
-            for (int v : g[i])
-                rev.get(v).add(i);
-        }
-
-        Queue<Integer> q = new LinkedList<>();
-        for (int i = 0; i < n; i++)
-            if (out[i] == 0) q.add(i);
-
+        int[] vis = new int[n];
         List<Integer> res = new ArrayList<>();
 
-        while (!q.isEmpty()) {
-            int u = q.poll();
-            res.add(u);
+        for (int i = 0; i < n; i++)
+            if (dfs(g, i, vis)) res.add(i);
 
-            for (int v : rev.get(u)) {
-                if (--out[v] == 0)
-                    q.add(v);
-            }
-        }
-
-        Collections.sort(res);
         return res;
+    }
+
+    boolean dfs(int[][] g, int u, int[] vis) {
+        if (vis[u] != 0) return vis[u] == 2;
+
+        vis[u] = 1;
+
+        for (int v : g[u])
+            if (!dfs(g, v, vis)) return false;
+
+        vis[u] = 2;
+        return true;
     }
 }
