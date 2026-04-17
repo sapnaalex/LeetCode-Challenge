@@ -9,15 +9,20 @@ class Solution {
         }
 
         boolean[] vis = new boolean[n];
-        return dfs(g, s, d, vis);
-    }
+        Queue<Integer> q = new LinkedList<>();
+        q.add(s);
+        vis[s] = true;
 
-    boolean dfs(List<List<Integer>> g, int u, int d, boolean[] vis) {
-        if (u == d) return true;
-        vis[u] = true;
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            if (u == d) return true;
 
-        for (int v : g.get(u)) {
-            if (!vis[v] && dfs(g, v, d, vis)) return true;
+            for (int v : g.get(u)) {
+                if (!vis[v]) {
+                    vis[v] = true;
+                    q.add(v);
+                }
+            }
         }
         return false;
     }
