@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0877-stone-game) |
 ## Game Theory
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0802-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
