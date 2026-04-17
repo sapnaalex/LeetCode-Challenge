@@ -3,42 +3,32 @@ class Solution {
         Set<String> set = new HashSet<>(wordList);
         if (!set.contains(end)) return 0;
 
-        Set<String> beginSet = new HashSet<>(), endSet = new HashSet<>();
-        beginSet.add(begin);
-        endSet.add(end);
-
+        Queue<String> q = new LinkedList<>();
+        q.add(begin);
         int steps = 1;
 
-        while (!beginSet.isEmpty() && !endSet.isEmpty()) {
-            if (beginSet.size() > endSet.size()) {
-                Set<String> temp = beginSet;
-                beginSet = endSet;
-                endSet = temp;
-            }
+        while (!q.isEmpty()) {
+            int size = q.size();
+            while (size-- > 0) {
+                String word = q.poll();
+                if (word.equals(end)) return steps;
 
-            Set<String> next = new HashSet<>();
-
-            for (String word : beginSet) {
                 char[] arr = word.toCharArray();
 
                 for (int i = 0; i < arr.length; i++) {
                     char old = arr[i];
                     for (char c = 'a'; c <= 'z'; c++) {
                         arr[i] = c;
-                        String newWord = new String(arr);
+                        String next = new String(arr);
 
-                        if (endSet.contains(newWord)) return steps + 1;
-
-                        if (set.contains(newWord)) {
-                            next.add(newWord);
-                            set.remove(newWord);
+                        if (set.contains(next)) {
+                            q.add(next);
+                            set.remove(next);
                         }
                     }
                     arr[i] = old;
                 }
             }
-
-            beginSet = next;
             steps++;
         }
         return 0;
