@@ -1,29 +1,20 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int s, int d) {
-        List<List<Integer>> g = new ArrayList<>();
-        for (int i = 0; i < n; i++) g.add(new ArrayList<>());
-        
-        for (int[] e : edges) {
-            g.get(e[0]).add(e[1]);
-            g.get(e[1]).add(e[0]);
-        }
+        int[] p = new int[n];
+        for (int i = 0; i < n; i++) p[i] = i;
 
-        boolean[] vis = new boolean[n];
-        Queue<Integer> q = new LinkedList<>();
-        q.add(s);
-        vis[s] = true;
+        for (int[] e : edges)
+            union(p, e[0], e[1]);
 
-        while (!q.isEmpty()) {
-            int u = q.poll();
-            if (u == d) return true;
+        return find(p, s) == find(p, d);
+    }
 
-            for (int v : g.get(u)) {
-                if (!vis[v]) {
-                    vis[v] = true;
-                    q.add(v);
-                }
-            }
-        }
-        return false;
+    int find(int[] p, int x) {
+        if (p[x] != x) p[x] = find(p, p[x]);
+        return p[x];
+    }
+
+    void union(int[] p, int a, int b) {
+        p[find(p, a)] = find(p, b);
     }
 }
