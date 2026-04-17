@@ -14,24 +14,17 @@
  * }
  */
 class Solution {
-    int k, ans;
-
     public int kthSmallest(TreeNode root, int k) {
-        this.k = k;
-        inorder(root);
-        return ans;
-    }
-
-    void inorder(TreeNode root) {
-        if (root == null) return;
-
-        inorder(root.left);
-
-        if (--k == 0) {
-            ans = root.val;
-            return;
+        Stack<TreeNode> st = new Stack<>();
+        
+        while (true) {
+            while (root != null) {
+                st.push(root);
+                root = root.left;
+            }
+            root = st.pop();
+            if (--k == 0) return root.val;
+            root = root.right;
         }
-
-        inorder(root.right);
     }
 }
