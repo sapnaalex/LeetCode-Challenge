@@ -1,9 +1,21 @@
 import java.util.Arrays;
 
 class Solution {
+    public void sort(int[] nums){
+        int n = nums.length;
+        for(int i=0; i<n-1; i++){
+            for(int j=0; j<n-i-1; j++){
+                if(nums[j]>nums[j+1]){
+                    int temp = nums[j];
+                    nums[j] = nums[j+1];
+                    nums[j+1] = temp;
+                }
+            }
+        }
+    }
     public int threeSumClosest(int[] nums, int target) {
         int n = nums.length;
-        Arrays.sort(nums); // O(n log n)
+        sort(nums); // O(n log n)
         
         int closestSum = nums[0] + nums[1] + nums[2];
 
