@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0046-permutations) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sapnaalex/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
